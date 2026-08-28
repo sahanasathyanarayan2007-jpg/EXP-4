@@ -59,12 +59,18 @@ Bridge rectifier with filter:
 <img width="695" height="460" alt="image" src="https://github.com/user-attachments/assets/01ba2fcd-e253-40a2-99dd-ac797d102f09" />
 <img width="1397" height="730" alt="image" src="https://github.com/user-attachments/assets/eaf11f3a-4e5c-4ee8-806e-7d07416101ad" />
 
+CiRCUIT FOR Bridge rectifier with filter:
+<img width="1600" height="503" alt="WhatsApp Image 2026-08-28 at 6 41 24 PM" src="https://github.com/user-attachments/assets/5807d398-150a-49cf-afe5-0633795d508f" />
 
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+TABULAR COLUMN FOR BRIDGE Rectifier WITH filter:
+<img width="1600" height="414" alt="WhatsApp Image 2026-08-28 at 6 41 38 PM" src="https://github.com/user-attachments/assets/c649887b-37fa-436c-962b-3225619c5b1b" />
+
+
+MODEL GRAPH FOR Bridge rectifier with filter:
+<img width="1600" height="632" alt="WhatsApp Image 2026-08-28 at 6 41 51 PM" src="https://github.com/user-attachments/assets/e550b796-3ad3-4a91-a1cb-23d90af1baa3" />
+
+
 
 
 
